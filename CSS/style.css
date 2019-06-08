@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900|Noto+Sans+HK:300,400,700&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/box.css");
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin: 0px auto;
+}
+h1, h2, h3 {
+	font-family: 'Noto Sans HK', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #F0C987;
+	font-family: 'Merriweather'
+}
+a:hover {
+	color: black
+}
